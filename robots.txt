@@ -1,0 +1,10 @@
+User-agent:
+*
+
+User-agent: Yandex
+
+
+host: photoshop-2024.github.io 
+
+
+Sitemap: https://photoshop-2024.github.io/sitemap.xml
